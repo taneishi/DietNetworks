@@ -5,6 +5,7 @@ This repo contains the code to reproduce the experiments of the paper [DietNetwo
 ## Before you start
 
 - Download and install Theano and Lasagne.
+    - pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 - Download the 1000 Genomes dataset as described in appendix B of the paper.
 
 ## Generate the pre-computed embeddings if necessary
